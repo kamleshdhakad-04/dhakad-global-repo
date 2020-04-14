@@ -1,0 +1,7 @@
+Can you post more details with screenshots?
+- What was the last working state?
+- What changes did you make? Can you be specific and put the code changes etc?
+- What do you expect to happen? Can you be specific and put the code changes, screenshots etc?
+- What did you try to fix the issue?
+- What do you observe?
+- Include Code snippets, Properties files, pom.xml, Log, Stack Trace etc

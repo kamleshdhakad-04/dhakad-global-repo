@@ -1,0 +1,4 @@
+If you've checked all the things above, post the following details
+- Can you post your hello world controller and the code changes you made to add JWT Header in frontend?
+- Can you post a screenshot of executing the request and the request details and headers?
+- Can you post a screenshot of your package structure showing individual classes?
