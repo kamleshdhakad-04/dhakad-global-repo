@@ -1,3 +1,4 @@
+Approach 1 : Spring Boot Project :- In pom.xml, the property java.version should be set to 1.8.
 <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
