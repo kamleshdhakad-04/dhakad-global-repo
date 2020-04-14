@@ -1,0 +1,2 @@
+Eclipse IDE for Java Developers - Used to develop Java applications.
+Eclipse IDE for Java EE Developers - Used to develop web application, Java EE application, web services and micro services with Java
