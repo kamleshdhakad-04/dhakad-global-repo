@@ -1,2 +1,3 @@
 Eclipse IDE for Java Developers - Used to develop Java applications.
 Eclipse IDE for Java EE Developers - Used to develop web application, Java EE application, web services and micro services with Java
+First of all we would need to identify the frameworks we want to use, which versions of frameworks to use and how to connect them together.
